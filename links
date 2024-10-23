@@ -1,0 +1,27 @@
+# Why Context is Not a State Management Tool?
+https://blog.isquaredsoftware.com/2021/01/context-redux-differences/
+ 
+# The problems global state management libraries need to solve
+https://frontendmastery.com/posts/the-new-wave-of-react-state-management/?ref=jonas.io
+
+# React Re-rendering Guide
+https://alexsidorenko.com/blog
+
+# React programming model in more depth
+https://overreacted.io/react-as-a-ui-runtime/?ref=jonas.io
+
+# How to remove unnecessary Effects 
+https://react.dev/learn/you-might-not-need-an-effect?ref=jonas.io#how-to-remove-unnecessary-effects
+
+# A Complete Guide to useEffect
+https://overreacted.io/a-complete-guide-to-useeffect/?ref=jonas.io
+
+# useEffect sometimes fires before paint
+https://thoughtspile.github.io/2021/11/15/unintentional-layout-effect/
+
+# Redux - Not Dead Yet!
+https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/?ref=jonas.io
+
+# Common Beginner Mistakes with React To Avoid
+https://www.joshwcomeau.com/react/common-beginner-mistakes/
+
